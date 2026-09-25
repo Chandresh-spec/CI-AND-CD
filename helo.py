@@ -5,5 +5,6 @@ def print_name():
     print("hi im chandresh")
 
 
-def helo_chandresh():
-    print("helo ")
+
+def print_college():
+    print("canara college")
